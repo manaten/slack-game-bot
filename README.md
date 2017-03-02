@@ -29,7 +29,7 @@ new GameBot({
 
 For more information, read below samples.
 
-# samples
+# sample games
 
 ## Janken
 
